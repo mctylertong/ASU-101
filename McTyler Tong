@@ -1,1 +1,7 @@
-This is my GitHub repo assignment.
+public class McTyler
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Hello World");
+  }
+}
